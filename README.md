@@ -10,7 +10,7 @@ Github: [点我下载](https://github.com/CatServer/CatServer/archive/master.zip
 ## Windows使用教程
 1.安装Java运行环境;<br>
 2.双击run.bat运行;<br>
-3.同意来自 Mojang AB 的最终用户协议,详见文件eule.txt;<br>
+3.同意来自 Mojang AB 的最终用户协议,详见文件eula.txt;<br>
 4.安装您所需的模组/插件;<br>
 5.再次双击run.bat开启服务器。
 ## 问题反馈
