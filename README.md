@@ -1,10 +1,10 @@
 # CatServer
-CatServer是一个为高版本模组提供Bukkit/Spigot/Sponge插件支持的船新核心。具有简单可靠,性能强劲,方便配置等特点。<br>
+CatServer是一个为高版本模组提供Bukkit/Spigot/Sponge(计划中)插件支持的船新核心。具有简单可靠,性能强劲,方便配置等特点。<br>
 本核心在遵守各协议的前提下闭源重构,该发行版为社区版,使用者在遵守各协议的情况下允许其免费使用。
 ## 当前核心/API版本
 Spigot:1.12.2<br>
-Forge:14.23.5.2808<br>
-Sponge:7.1.0 (计划中...)
+Forge:14.23.5.2815<br>
+Sponge:7.2.0 (计划中...)
 ## 下载链接
 Github: [点我下载](https://github.com/CatServer/CatServer/archive/master.zip "Github")
 ## Windows使用教程
