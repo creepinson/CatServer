@@ -21,8 +21,7 @@ please create Issues to send a full crash report and log or join our [Discord](h
 遇到了模组/插件无法使用,服务器无法开启等问题,请不要慌,坐和放宽(大雾)。<br>
 请先确定该模组/插件是否适合当前核心/API版本,并且确定该模组/插件是否需要前置模组/插件的支持<br>
 如果确定是因为本核心导致的功能失效/崩溃,请提交Issues并提供完整的错误报告/日志内容<br>
-或加入官方QQ交流群按照群规向开发者提交完整的错误报告/日志 群号:801482055 [点我加群](https://jq.qq.com/?_wv=1027&k=5eFH07
-H "加群链接")
+或加入官方QQ交流群按照群规向开发者提交完整的错误报告/日志 群号:801482055 [点我加群](https://jq.qq.com/?_wv=1027&k=5eFH07H "加群链接")
 ## Windows使用教程
 1.安装Java运行环境;<br>
 2.双击run.bat运行;<br>
