@@ -1,20 +1,19 @@
 # CatServer
 CatServer是一个为高版本模组提供Bukkit/Spigot插件支持的船新核心。具有简单可靠,性能强劲,方便配置等特点。<br>
 本核心在遵守各协议的前提下闭源重构,该发行版为社区版,使用者在遵守各协议的情况下允许其免费使用。<br>
-CatServer is a new MinecraftServer to combine Forge and Spigot.<br>
-This release is a community version, and users are allowed to use it for free when they comply with Mojang's eula.
+CatServer is a powerful new Minecraft server to combine Forge and Spigot.<br>
+This release is community version, and users are allowed to use it for free when they comply with Mojang's eula.
 ## Current API Version
 Spigot:1.12.2<br>
 Forge:14.23.5.2815<br>
 Sponge:7.2.0 (Coming soon...)
 ## Download
-Github: [Download](https://github.com/CatServer/CatServer/archive/master.zip "Github")<br>
-Mega: [Download](https://mega.nz/#F!nZoXHILQ!xV6rqHXMuUYZkTWdFTqp3Q "Mega")<br>
-Fix&Special: [Mega](https://mega.nz/#F!PQommYJa!DHzLp2mX850ydOrBmTqGiQ "Mega")
+CatServer: [Github](https://github.com/CatServer/CatServer/archive/master.zip "Download") or [Mega](https://mega.nz/#F!nZoXHILQ!xV6rqHXMuUYZkTWdFTqp3Q "Download")<br>
+Fix&Special: [Mega](https://mega.nz/#F!PQommYJa!DHzLp2mX850ydOrBmTqGiQ "Mega")<br>
+SpongeSupport:  [Porous](https://github.com/CatServer/Porous "Git")
 ## CrashReport
-If you encounter a mod/plugin that cannot be used, the server can't be start, etc.<br>
-Don't panic, sit and relax. Please make sure that the mod/plugin is suitable for the current API version<br>
-or whether it has a dependent mod/plugin<br>
+If you encounter a mod/plugin that cannot be used, the server can't be start, etc. Don't panic, sit and relax.<br>
+Please make sure that the mod/plugin is suitable for the current API version or whether it has a dependent mod/plugin<br>
 If it is found that the function is invalid/crash due to the server,<br>
 please create Issues to send a full crash report and log or join our [Discord](https://discord.gg/EEgtnXC "Discord")
 ## 问题反馈
