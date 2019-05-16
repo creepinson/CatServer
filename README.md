@@ -5,8 +5,8 @@ CatServer is a powerful new Minecraft server to combine Forge and Spigot.<br>
 This release is community version, and users are allowed to use it for free when they comply with Mojang's eula.
 ## Current API Version
 Spigot:1.12.2<br>
-Forge:14.23.5.2815<br>
-Sponge:7.2.0 (Coming soon...)
+Forge:14.23.5.2825<br>
+Sponge:7.2.0 (Beta)
 ## Download
 CatServer: [Github](https://github.com/CatServer/CatServer/archive/master.zip "Download") or [Mega](https://mega.nz/#F!nZoXHILQ!xV6rqHXMuUYZkTWdFTqp3Q "Download")<br>
 Fix&Special: [Mega](https://mega.nz/#F!PQommYJa!DHzLp2mX850ydOrBmTqGiQ "Mega")<br>
