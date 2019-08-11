@@ -1,0 +1,14 @@
+e3ad8ed Server.properties supports UTF-8
+fccf28f Fixes can't handle mod inheritance from AbstractHorse
+f3acb3b Fix plugin reflection package
+1b765c0 Optimization library download
+0456e0e Increase multi-language support
+5440a8b Fix bstats statistics as Unknown
+3a84221 Fix automatic download library bug
+8ae3f84 Automatically download library files
+a6ed998 EULA
+8f17785 Watchdog card forced to exit
+5ae5918 Compatible with TaboLib
+124242c Fix URL conversion
+86d920c Quark compatible
+fefcec7 Update to 3.0

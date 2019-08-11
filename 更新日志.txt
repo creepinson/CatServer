@@ -1,0 +1,14 @@
+e3ad8ed server.properties支持UTF-8
+fccf28f 修复无法处理MOD继承AbstractHorse的生物
+f3acb3b 修复插件反射发包
+1b765c0 优化库下载
+0456e0e 增加多语言支持
+5440a8b 修复bstats统计为Unknown
+3a84221 修复自动下载库bug
+8ae3f84 自动下载库文件
+a6ed998 EULA
+8f17785 Watchdog卡死强制退出
+5ae5918 兼容TabooLib
+124242c 修复URL转换
+86d920c Quark兼容
+fefcec7 Update to 3.0

@@ -1,8 +1,13 @@
+# What is 3.0
+CatServer 3.0 为一个全新的开始，我们重构组织代码以带来更强的兼容性更佳的稳定性以及更快的速度(多方面的)
+特别是该版本对coremod兼容性的加强，因此我们强烈建议您都升级到此版本。
+CatServer 3.0 is a new beginning, we have refactored the organization code to bring better compatibility, better stability and faster speed (multifaceted)
+In particular, this release enhances coremod compatibility, so we strongly recommend that you upgrade to this version.
 # What is CatServer
 CatServer是一个为高版本模组提供Bukkit/Spigot插件支持的全新核心。高可用性和弹性拓展是一直致力的方向。<br>
-本核心在遵守各协议的前提下闭源重构,该发行版为社区版,使用者在遵守各协议的情况下允许其免费使用。<br>
+本核心在遵守各协议的前提下闭源重构,该发行版为正式版,使用者在遵守各协议的情况下允许其免费使用。<br>
 CatServer is a powerful new Minecraft server to combine Forge and Spigot.<br>
-This release is community version, and users are allowed to use it for free when they comply with Mojang's eula.
+This release is formal version, and users are allowed to use it for free when they comply with Mojang's eula.
 ## Current API Version
 Spigot:1.12.2<br>
 Forge:14.23.5.2838<br>
