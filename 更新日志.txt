@@ -1,3 +1,9 @@
+78df914 修复MOD世界传送
+c719bd5 兼容VanillaFix
+fcb43d5 将DEBUG日志分开
+ab8e8dc MOD药水clone原始类型
+2339ba2 修复无法正确处理MOD药水
+a1adbd7 修复remap
 e3ad8ed server.properties支持UTF-8
 fccf28f 修复无法处理MOD继承AbstractHorse的生物
 f3acb3b 修复插件反射发包
