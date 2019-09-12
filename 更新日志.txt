@@ -1,3 +1,10 @@
+﻿3c5e7d0 升级Forge版本到2848
+0e503a0 修复唱片处理逻辑与MOD冲突
+40f2af3 允许2826及以上客户端使用DataSerializers
+0f814e8 修复火蔓延几率造成崩溃
+c43bbf2 修复BungeeCord在线模式无法显示皮肤
+87e383c 修复护甲计算
+cab28af 移除FMLSecurityManager和TerminalTransformer
 78df914 修复MOD世界传送
 c719bd5 兼容VanillaFix
 fcb43d5 将DEBUG日志分开
@@ -13,7 +20,7 @@ f3acb3b 修复插件反射发包
 3a84221 修复自动下载库bug
 8ae3f84 自动下载库文件
 a6ed998 EULA
-8f17785 Watchdog卡死强制退出
+8f17785 Watchdog进程卡住强制退出
 5ae5918 兼容TabooLib
 124242c 修复URL转换
 86d920c Quark兼容

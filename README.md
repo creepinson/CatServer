@@ -1,3 +1,31 @@
+#Updatelog
+3c5e7d0 Update: Forge updated to 2848
+0e503a0 Bug Fix: Fixed conflicts between music disc processing and MODs
+40f2af3 New Feature: Client after 2826 can now use DataSerializers
+0f814e8 Bug Fix: Fixed crash caused by fire spreading
+c43bbf2 Bug Fix: Fixed apperence display errors on BungeeCord online mode
+87e383c Bug Fix: Fixed errors with armor calculating
+cab28af Bug Fix: Removed FMLSecurityManager and TerminalTransformer
+78df914 Bug Fix: Fixed errors with MOD world teleporting
+c719bd5 New Feature: Added compatibility to VanillaFix
+fcb43d5 New Feature: DEBUG log now split
+ab8e8dc New Feature: MOD potions now clone from original types 
+2339ba2 Bug Fix: Fixed errors with MOD potions
+a1adbd7 Bug Fix: Fixed errors with remap
+e3ad8ed New Feature: server.properties now supports UTF-8
+fccf28f Bug Fix: Now can process MOD creatures extending AbstractHorse
+f3acb3b Bug Fix: Fixed errors with remap
+1b765c0 New Feature: Improved library files auto download
+0456e0e New Feature: More language support
+5440a8b Bug Fix: Fixed the bug making bstats show Unknown
+3a84221 Bug Fix: Fixed errors with library downloading
+8ae3f84 New Feature: Auto download library files
+a6ed998 Agreement Update: EULA updated
+8f17785 New Feature: Auto exit when process Watchdog crash
+5ae5918 New Feature: Added compatibility for TabooLib
+124242c Bug Fix: Fixed errors with URL transforming
+86d920c New Feature: Added compatibility for Quark
+fefcec7 Update to 3.0
 # What is 3.0
 CatServer 3.0 为一个全新的开始，我们重构组织代码以带来更强的兼容性更佳的稳定性以及更快的速度(多方面的)
 特别是该版本对coremod兼容性的加强，因此我们强烈建议您都升级到此版本。
@@ -10,7 +38,7 @@ CatServer is a powerful new Minecraft server to combine Forge and Spigot.<br>
 This release is formal version, and users are allowed to use it for free when they comply with Mojang's eula.
 ## Current API Version
 Spigot:1.12.2<br>
-Forge:14.23.5.2838<br>
+Forge:14.23.5.2848<br>
 Sponge:7.2.0 (Beta)
 ## Download
 CatServer: [Github](https://github.com/CatServer/CatServer/archive/master.zip "Download") or [Mega](https://mega.nz/#F!nZoXHILQ!xV6rqHXMuUYZkTWdFTqp3Q "Download")<br>
