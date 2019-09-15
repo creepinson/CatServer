@@ -1,4 +1,4 @@
-#Updatelog
+#Updatelog <br>
 3c5e7d0 Update: Forge updated to 2848<br>
 0e503a0 Bug Fix: Fixed conflicts between music disc processing and MODs<br>
 40f2af3 New Feature: Client after 2826 can now use DataSerializers<br>
